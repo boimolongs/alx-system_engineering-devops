@@ -5,3 +5,4 @@
 4 - display content of files in long format including hidden files
 5 - display files with groupbys
 6 - Create directory in /tmp folder
+7 - Move the file betty from /tmp/ to /tmp/my_first_directory
