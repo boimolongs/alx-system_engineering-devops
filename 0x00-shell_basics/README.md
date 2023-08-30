@@ -6,3 +6,4 @@
 5 - display files with groupbys
 6 - Create directory in /tmp folder
 7 - Move the file betty from /tmp/ to /tmp/my_first_directory
+8 - Delete the file betty
